@@ -1,0 +1,165 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "MUFFEEZ_CV.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "Je suis actuellement étudiante <span class='underline'>en troisième année du cycle d'ingénieur</span>, spécialisée dans les domaines du<span class='underline'> DevOps</span>, de la conteneurisation, de l'orchestration et du déploiement. Mon parcours académique et mes compétences techniques m'ont permis de développer une solide compréhension des technologies liées à la gestion des infrastructures informatiques modernes. <span class='underline'>Actuellement à la recherche d'une opportunité de stage pour mon projet de fin d'études (PFE)</span>, je suis enthousiaste à l'idée d'appliquer mes connaissances et de contribuer à des projets concrets au sein d'une entreprise dynamique et innovante.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "AddInn Group",
+            "Title": "DevOps intern",
+            "Date": "june 2023 - augest 2023",
+            "Description": [
+                "Containerization of an application with Docker and its deployment on Kubernetes cluster. Creation and management of Helm Charts for deployment on Kubernetes. Continuous integration and Continuous deployment pipeline (CI/CD) on Gitlab CI to ensure fast and reliable application delivery.key words:Containerization ,Docker,Kubernetes,Helm,CI/CD ."
+            ]
+        },
+        
+        {
+            "Tab": "Tunisie Telecom",
+            "Title": "Intern",
+            "Date": "july 2022 - augest 2022",
+            "Description": [
+                "Management of customer complaints and proactive communication to resolve issues.",
+                "Troubleshooting network problems, including handling disruptions.",
+                "Exploration of telecommunications infrastructure for better understanding"
+               
+            ]
+        },
+        {
+            "Tab": "Freelancer",
+            "Title": "Independent",
+            "Date": "March 2020 - Present",
+            "Description": [
+                "Implementing continuous improvements, working on frontend and backend.",
+                "Creating platforms with Angular, Nodejs, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+                "Automation of processes with data structures.",
+                "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": " Projects",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "DevOps Project",
+            "Description": "Containerization of an application with Docker and its deployment on Kubernetes cluster.Creation and management of Helm Charts for deployment on Kubernetes. Continuous integration and Continuous deployment pipeline (CI/CD) on Gitlab CI to ensure fast and reliable application delivery.",
+            "imgs": [
+                "assets/images/school/222.PNG",
+                "src/assets/images/school/devops.jpg"
+            ],
+            "Technologies": [
+                "CI/CD",
+                "kubernetes",
+                "Docker",
+                "Helm"
+            ]
+        },
+        {
+            "Title": "E-commerce application",
+            "Description": "Development of a dynamic product catalog with filtering. Implementation of a shopping cart system. Creation of an admin dashboard. ",
+            "imgs": [
+                "assets/images/bbm/image1.png",
+                "assets/images/bbm/image2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "bootstrap",
+                "API Rest"
+            ]
+        },
+        {
+            "Title": " KALI AND METASPLOIT TO TAKE CONTROL OF A VULNERABLE MACHINE.",
+            "Description": "  Setting up two machines, one for the attack and the other to serve as a vulnerable target (Metasploitable2). Perform reconnaissance and vulnerability identification. Initiate an attack and gain control of the vulnerable machine.",
+            "imgs": [
+                "assets/images/mazhr/Screen-Shot-2022-04-03-at-14.41.09.png"
+            ],
+            "Technologies": [
+                "kali",
+                "Docker",
+                "security",
+                "Metasploit",
+                "vulnerability"
+            ]
+        },
+        {
+            "Title": "DYNAMIC JAVA EE WEB PROJECT            ",
+            "Description": " Development of an application (portfolio) with two interfaces (login and  signup) and a homepage, involving the design of applications and the    development of features.   Key words : JSP,Servlet , JD",
+            "imgs": [
+                "assets/images/mazhr/needle.png"
+            ],
+            "demoLink": "https://profile.needlemusic.co/bub",
+            "Technologies": [
+                "JEE",
+                "JSP",
+                "Servelette",
+                "JAVA"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Covid Tracker",
+            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
+            "ghLink": "https://github.com/mufeez1/carona19-tracker",
+            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Lets Chat",
+            "Description": "A real-time chat application. Another fun side project :)",
+           
+            "Technologies": [
+                "React",
+                "SASS",
+                "Socket.io",
+                "NodeJS",
+                "ExpressJS",
+                "Firebase"
+            ]
+        },
+        {
+            "Title": "Quiz App",
+            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+            
+            "Technologies": [
+                "React",
+                "SASS",
+                "TypeScript",
+                "API",
+                "3rd Party Library"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+           
+            "Technologies": [
+                "React",
+                "JWT",
+                "ExpressJS",
+                "POSTGREESQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "Contact me ",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Contact me "
+}
